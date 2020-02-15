@@ -3,8 +3,25 @@
   "version": "0.1.0",
   "description": "SkyPilot's babel.config.js for Node projects using TypeScript",
   "main": "lib/index.js",
-  "repository": "https://github.com/skypilotcc/babel-config-node-typescript",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skypilotcc/babel-config-node-typescript.git"
+  },
   "author": "William Thorsen <william@thorsen.dev>",
   "license": "ISC",
-  "private": false
+  "private": false,
+  "bugs": {
+    "url": "https://github.com/skypilotcc/babel-config-node-typescript/issues"
+  },
+  "homepage": "https://github.com/skypilotcc/babel-config-node-typescript#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "babel",
+    "back-end",
+    "config",
+    "node",
+    "typescript"
+  ]
 }
