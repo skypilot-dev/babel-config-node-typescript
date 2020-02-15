@@ -1,0 +1,10 @@
+{
+  "name": "@skypilot/babel-config-node-typescript",
+  "version": "0.1.0",
+  "description": "SkyPilot's babel.config.js for Node projects using TypeScript",
+  "main": "lib/index.js",
+  "repository": "https://github.com/skypilotcc/babel-config-node-typescript",
+  "author": "William Thorsen <william@thorsen.dev>",
+  "license": "ISC",
+  "private": false
+}
