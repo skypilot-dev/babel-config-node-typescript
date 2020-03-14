@@ -1109,20 +1109,20 @@
   dependencies:
     type-detect "4.0.8"
 
-"@skypilot/babel-config-node-typescript@^0.1.3":
-  version "0.1.3"
-  resolved "https://registry.yarnpkg.com/@skypilot/babel-config-node-typescript/-/babel-config-node-typescript-0.1.3.tgz#aeb39a44aedff72c5115fc2c091e6cde3d7feec5"
-  integrity sha512-O09RLCZtoOHjdhOjNYkZO0qPZ6JCXrIV4qG2bTu4/1kWJdpCc35hK3GVuw0BGxvo64Ix0GtYDs60fU4BMgxKSA==
+"@skypilot/babel-config-node-typescript@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@skypilot/babel-config-node-typescript/-/babel-config-node-typescript-1.0.0.tgz#528c3f17a24dd1a36fac46262f8cb594c8a52dea"
+  integrity sha512-4Q4DJl60aBul9H8b3//5eIrDN7NLLi2BffL6gi9GvoDCcLe92toN49iLUGnkoFzAffaOrRv0fED9lGoGYcNxEw==
 
 "@skypilot/eslint-config-typescript@^1.0.3":
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/@skypilot/eslint-config-typescript/-/eslint-config-typescript-1.0.3.tgz#c3716d8c24b17239f10d79cd7f76c8df9ebb6d5b"
   integrity sha512-rly998qGVzVLW9uR9wE04GjIBA4CkERFNmYN7RS87fuCBID/7DO9GoGudHHGUP1SiNVf5spDoagX+Z0LYKh+rQ==
 
-"@skypilot/toolchain@^3.5.5":
-  version "3.5.5"
-  resolved "https://registry.yarnpkg.com/@skypilot/toolchain/-/toolchain-3.5.5.tgz#1761ae76aa2b8facba73604f34a6abba6a05aeb9"
-  integrity sha512-MMtpyXlh5vQ469JVB8fn7VuQEkVCLwwc8vgzBczx1FkQSGCh+4RYm4QDNTRCSy79iztmTcHS7EMknrZTYg10Xg==
+"@skypilot/toolchain@^3.5.8":
+  version "3.5.8"
+  resolved "https://registry.yarnpkg.com/@skypilot/toolchain/-/toolchain-3.5.8.tgz#0eba6a3d936e630eeacae7a59a0e8e13cfec1667"
+  integrity sha512-5s4LL9XtTwLmTSMiEJeN7sU/WQCMbZDqCcWpl+17FxrJ2yANYT1j9p5sMGAkdC+Gs92fpRd2I+KGei5K2aGK+g==
   dependencies:
     "@babel/cli" "^7.8.4"
     "@babel/core" "^7.8.7"
@@ -1133,7 +1133,7 @@
     "@babel/preset-env" "^7.8.7"
     "@babel/preset-typescript" "^7.8.3"
     "@babel/runtime" "^7.8.7"
-    "@skypilot/babel-config-node-typescript" "^0.1.3"
+    "@skypilot/babel-config-node-typescript" "^1.0.0"
     "@skypilot/eslint-config-typescript" "^1.0.3"
     "@types/jest" "^25.1.4"
     "@types/node" "^13.9.1"
