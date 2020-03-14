@@ -2,7 +2,7 @@
   "name": "@skypilot/babel-config-node-typescript",
   "description": "SkyPilot's babel.config.js for Node projects using TypeScript",
   "homepage": "https://github.com/skypilotcc/babel-config-node-typescript#readme",
-  "version": "0.1.3",
+  "version": "1.0.0",
   "main": "lib/index.js",
   "author": {
     "email": "william@thorsen.dev",
