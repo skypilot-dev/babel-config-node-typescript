@@ -1,3 +1,3 @@
 module.exports = {
-  extends: '@skypilot/babel-config-node-typescript',
+  extends: './src/index',
 };
