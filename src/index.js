@@ -16,5 +16,13 @@ module.exports = {
     '@babel/proposal-class-properties',
     '@babel/proposal-numeric-separator',
     '@babel/proposal-object-rest-spread',
+    [
+      'babel-plugin-root-import', {
+        paths: [
+          { rootPathPrefix: 'root' },
+          { rootPathPrefix: 'src', rootPathSuffix: 'src' },
+        ],
+      },
+    ],
   ],
 };

@@ -48,5 +48,8 @@
   "publishConfig": {
     "access": "restricted"
   },
-  "types": "lib/index.d.ts"
+  "types": "lib/index.d.ts",
+  "dependencies": {
+    "babel-plugin-root-import": "^6.5.0"
+  }
 }
