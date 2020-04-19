@@ -1,8 +1,20 @@
 {
   "name": "@skypilot/babel-config-node-typescript",
-  "version": "1.0.1",
-  "private": false,
   "description": "SkyPilot's babel.config.js for Node projects using TypeScript",
+  "homepage": "https://github.com/skypilotcc/babel-config-node-typescript#readme",
+  "version": "1.1.0",
+  "main": "lib/index.js",
+  "author": {
+    "email": "wthorsen@skypilot.dev",
+    "name": "William Thorsen"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skypilotcc/babel-config-node-typescript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/skypilotcc/babel-config-node-typescript/issues"
+  },
   "keywords": [
     "babel",
     "back-end",
@@ -10,21 +22,12 @@
     "node",
     "typescript"
   ],
-  "homepage": "https://github.com/skypilotcc/babel-config-node-typescript#readme",
-  "bugs": {
-    "url": "https://github.com/skypilotcc/babel-config-node-typescript/issues"
+  "dependencies": {
+    "babel-plugin-root-import": "^6.5.0"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/skypilotcc/babel-config-node-typescript.git"
+  "devDependencies": {
+    "@skypilot/toolchain": "^3.5.14"
   },
-  "license": "ISC",
-  "author": {
-    "name": "William Thorsen",
-    "email": "wthorsen@skypilot.dev"
-  },
-  "main": "lib/index.js",
-  "types": "lib/index.d.ts",
   "files": [
     "/lib"
   ],
@@ -43,13 +46,10 @@
     "test": "jest",
     "typecheck": "tsc"
   },
-  "dependencies": {
-    "babel-plugin-root-import": "^6.5.0"
-  },
-  "devDependencies": {
-    "@skypilot/toolchain": "^3.5.14"
-  },
+  "private": false,
+  "license": "ISC",
   "publishConfig": {
     "access": "restricted"
-  }
+  },
+  "types": "lib/index.d.ts"
 }

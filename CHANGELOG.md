@@ -1,3 +1,20 @@
+# [1.1.0](https://github.com/skypilotcc/babel-config-node-typescript/compare/v1.1.0-next.1...v1.1.0) (2020-04-19)
+
+
+
+# [1.1.0-next.1](https://github.com/skypilotcc/babel-config-node-typescript/compare/v1.1.0-next.0...v1.1.0-next.1) (2020-04-19)
+
+
+
+# [1.1.0-next.0](https://github.com/skypilotcc/babel-config-node-typescript/compare/v1.0.1...v1.1.0-next.0) (2020-04-19)
+
+
+### Features
+
+* Define standard path aliases `src` & `root` ([c7208fc](https://github.com/skypilotcc/babel-config-node-typescript/commit/c7208fc4c438aaead3ce12934124e5b52f02dc24))
+
+
+
 ## [1.0.1](https://github.com/skypilotcc/babel-config-node-typescript/compare/v1.0.1-next.0...v1.0.1) (2020-03-14)
 
 
