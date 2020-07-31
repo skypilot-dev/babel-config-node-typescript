@@ -1,3 +1,11 @@
+## [1.1.4](https://github.com/skypilot-dev/babel-config-node-typescript/compare/v1.1.4-next.1...v1.1.4) (2020-07-31)
+
+
+
+## [1.1.4-next.1](https://github.com/skypilot-dev/babel-config-node-typescript/compare/v1.1.4-next.0...v1.1.4-next.1) (2020-07-31)
+
+
+
 ## [1.1.3](https://github.com/skypilot-dev/babel-config-node-typescript/compare/v1.1.3-next.0...v1.1.3) (2020-05-07)
 
 
