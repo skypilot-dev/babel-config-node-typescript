@@ -47,7 +47,7 @@
     "babel-plugin-root-import": "^6.5.0"
   },
   "devDependencies": {
-    "@skypilot/toolchain": "^4.1.0"
+    "@skypilot/toolchain": "^5.0.2"
   },
   "publishConfig": {
     "access": "restricted"
