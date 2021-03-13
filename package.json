@@ -1,6 +1,6 @@
 {
   "name": "@skypilot/babel-config-node-typescript",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "private": false,
   "description": "SkyPilot's babel.config.js for Node projects using TypeScript",
   "keywords": [
