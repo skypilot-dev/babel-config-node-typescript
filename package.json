@@ -44,10 +44,10 @@
     "typecheck": "tsc"
   },
   "dependencies": {
-    "babel-plugin-root-import": "^6.5.0"
+    "babel-plugin-root-import": "^6.6.0"
   },
   "devDependencies": {
-    "@skypilot/toolchain": "^5.0.2"
+    "@skypilot/toolchain": "^5.2.0"
   },
   "publishConfig": {
     "access": "restricted"
